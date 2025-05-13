@@ -1,16 +1,22 @@
-## Hi there 👋
+# Dede Muhamad
 
-<!--
-**dede-muhamad/Dede-Muhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Analyst** skilled in **SQL**, **Python**, and **Data Visualization**. I love finding insights and helping businesses make data-driven decisions.
 
-Here are some ideas to get you started:
+## 📈 Projects
+- **SQL Queries for Business Insights**: Analyzing business data to find insights and trends.
+- **Python Data Analysis**: Using Pandas and Matplotlib to analyze datasets and visualize trends.
+- **Data Visualization Dashboard**: Created interactive dashboards using Google Looker and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Machine Learning Algorithms
+- Big Data Analytics with Spark
+
+## 📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/dede-muhamad)
+- [GitHub Portfolio](https://github.com/dede-muhamad)
+
+## 🔧 Tools & Technologies:
+- SQL
+- Python
+- Tableau / Google Looker
+- Pandas, Numpy, Matplotlib
